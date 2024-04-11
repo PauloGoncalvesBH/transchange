@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/lissaferreira/transchange#readme",
   "dependencies": {
-    "axios": "^0.26.1",
+    "axios": "^0.28.0",
     "data-store": "^4.0.3",
     "enquirer": "^2.3.6",
     "shelljs": "^0.8.5"
